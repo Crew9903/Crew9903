@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Crew9903
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python
+- 📫 How to reach me arguelloluis787@gmail.com
